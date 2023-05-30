@@ -9,3 +9,5 @@
 - https://opencv.github.io/cvat/docs/administration/basics/installation/
 
 - https://biometrie.sciencesconf.org/data/pages/9_Aladine_Chetouani_et_Emna_Fourati.pdf
+
+- https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/in_painting_with_stable_diffusion_using_diffusers.ipynb#scrollTo=R596bpT2ynqV
