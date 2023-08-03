@@ -12,7 +12,7 @@
 
 - https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/in_painting_with_stable_diffusion_using_diffusers.ipynb#scrollTo=R596bpT2ynqV
 
-- "Unsplash", "Pexels" veya "Pixabay"
+## DATASET
 
 - https://unsplash.com/
 
